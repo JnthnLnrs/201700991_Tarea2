@@ -1,0 +1,9 @@
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\bin\Debug\201700991_COMUNICACIONES.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\bin\Debug\201700991_COMUNICACIONES.pdb
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\bin\Debug\201700991_COMUNICACIONES.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\obj\x86\Debug\201700991_COMUNICACIONES.vbproj.GenerateResource.Cache
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\obj\x86\Debug\201700991_COMUNICACIONES.exe
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\obj\x86\Debug\201700991_COMUNICACIONES.xml
+C:\Users\Usuario\documents\visual studio 2010\Projects\201700991_COMUNICACIONES\201700991_COMUNICACIONES\obj\x86\Debug\201700991_COMUNICACIONES.pdb
